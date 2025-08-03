@@ -1,4 +1,4 @@
-# testrepo
+# TrendInTech
 
 ##Editing the file
 
