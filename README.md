@@ -1,5 +1,7 @@
 # Tech Trends Dashboard (IBM Cognos)
 
+**View the dashboard:** [Cognos Dashboard.pdf](Cognos%20Dashboard.pdf) (PDF export; the live Cognos dashboard isn't publicly hosted)
+
 This project is an interactive dashboard built using **IBM Cognos Analytics**. It explores global trends in technology usage, preferred tools, and developer demographics, based on large-scale survey data.
 
 ## 📌 Objectives
@@ -25,6 +27,8 @@ This project is an interactive dashboard built using **IBM Cognos Analytics**. I
 
 ## 📁 Files
 - `Cognos Dashboard.pdf`: Visual export of the complete interactive dashboard
+- `M1ExploreDataSet-lab.ipynb`: Exploring the survey dataset (pandas)
+- `M2DataWrangling-lab.ipynb`: Data wrangling: duplicates, missing values, normalization
 
 ## 💡 What I Learned
 - Hands-on experience designing BI dashboards with Cognos
